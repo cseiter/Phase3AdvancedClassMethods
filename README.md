@@ -147,3 +147,4 @@ correctly but should also save the Song instance that was created.
 
 The `Song.destroy_all` class method should reset the state of the `@@all` class
 variable to an empty array thereby deleting all previous song instances.
+# Phase3AdvancedClassMethods
